@@ -1,2 +1,3 @@
-# udacity_deep-learning
-Udacity: Deep learning foundations nano degree
+# Udacity: Deep learning foundations nano degree
+
+Repository containing the class materials, lecture notes and projects.
